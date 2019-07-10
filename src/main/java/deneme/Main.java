@@ -7,6 +7,7 @@ public class Main {
 		
 		System.out.println("Hello world");
 		System.out.println("Added to dev branch");
+		System.out.println("Dev 2");
 	}
 
 }
